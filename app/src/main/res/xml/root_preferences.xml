@@ -1,0 +1,20 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="List Settings"
+        
+        >
+
+        <SwitchPreferenceCompat
+            app:key="show_only_shortlist"
+            app:title="Show only shortlist" />
+
+        <SwitchPreferenceCompat
+            app:key="show_only_dissertation_pending"
+            app:title="Only Dissertation pending" />
+
+
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>

@@ -1,0 +1,2 @@
+rootProject.name = "MockDPSDStudents3Toolbar"
+include ':app'
